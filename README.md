@@ -7,7 +7,7 @@
 ### 🌟 About Me
 - 🎓 Currently pursuing **BCA**
 - 🌱 Learning **C++, Python, and scikit-learn**
-- 💡 Interested in **Machine Learning & Web Development**
+- 💡 Interested in **Machine Learning**
 - 📫 Reach me at: **doshikanishak@gmail.com**
 
 ---
@@ -47,12 +47,6 @@
   <img src="https://streak-stats.demolab.com?user=1kanishk&theme=radical&border_radius=10" alt="streak stats" />
 </p>
 
----
-
-### ✨ Fun Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
 
 ---
 
