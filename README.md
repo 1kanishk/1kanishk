@@ -64,10 +64,3 @@
 </p>
 
 ---
-
-### ✨ Interactive Skill Icons  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,git,github,vscode&theme=dark&perline=6" />
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark&perline=6" />
-</p>
-
