@@ -22,7 +22,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/kanishk-jain-108757312"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/Kanishk_jain1"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/_kannishk_"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
